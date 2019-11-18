@@ -1,0 +1,25 @@
+h3{
+    font-family: "Comic Sans MS", sans-serif;
+    alignment: center;
+    color: #09d3ac;
+}
+
+.items{
+    display: flex;
+    flex-flow: wrap;
+    align-items: center;
+    justify-content: center
+}
+
+.item{
+    display:flex;
+    flex-direction:column;
+    margin:.5rem;
+    padding:1rem;
+    background-color: white;
+}
+
+img{
+    height:30rem;
+    width:auto;
+}

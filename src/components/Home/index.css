@@ -1,0 +1,58 @@
+.flex-container {
+    display: flex;
+    margin:5rem;
+    flex-direction: row;
+    background-color: white;
+    justify-content: center;
+    align-items:center;
+
+}
+.item-details {
+    font-family: "Comic Sans MS", sans-serif;
+    padding-top: 2rem;
+    font-weight: lighter;
+    color: #17556b;
+    margin: .5rem;
+    height: 20rem;
+    width: 20rem;
+    background-color: white;
+}
+.vocabulary-images {
+
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    padding: 1rem;
+    background-color: white;
+}
+
+.books-images{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    margin: .5rem;
+    padding: 1rem;
+    background-color: white;
+}
+
+.header-img {
+    height:15rem;
+    width:auto;
+}
+h1{
+    font-family: "Comic Sans MS", sans-serif;
+    font-weight: lighter;
+    color: #17556b;
+}
+
+h4{
+    color: darkgoldenrod;
+    border-top: 1px solid lightgrey;
+    padding-top:1rem;
+}
+
+
+img {
+    border-radius: 4px;
+}
