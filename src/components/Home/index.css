@@ -1,8 +1,12 @@
+.jumbotron {
+    background-color: darkred;
+}
+
 .flex-container {
     display: flex;
     margin:5rem;
     flex-direction: row;
-    background-color: white;
+    background-color: #17556b;
     justify-content: center;
     align-items:center;
 
@@ -15,7 +19,7 @@
     margin: .5rem;
     height: 20rem;
     width: 20rem;
-    background-color: white;
+    background-color: transparent;
 }
 .vocabulary-images {
 
@@ -24,7 +28,7 @@
     flex-direction: column;
     margin: .5rem;
     padding: 1rem;
-    background-color: white;
+    background-color: transparent;
 }
 
 .books-images{
@@ -33,7 +37,7 @@
     flex-direction: column;
     margin: .5rem;
     padding: 1rem;
-    background-color: white;
+    background-color: transparent;
 }
 
 .header-img {
@@ -43,7 +47,7 @@
 h1{
     font-family: "Comic Sans MS", sans-serif;
     font-weight: lighter;
-    color: #17556b;
+    color: black;
 }
 
 h4{
