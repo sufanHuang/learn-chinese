@@ -4,8 +4,8 @@
 
 .flex-container {
     display: flex;
-    margin:5rem;
     flex-direction: row;
+    margin :0rem 1rem 1rem 1rem;
     background-color: #17556b;
     justify-content: center;
     align-items:center;
@@ -35,13 +35,12 @@
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    margin: .5rem;
     padding: 1rem;
     background-color: transparent;
 }
 
 .header-img {
-    height:15rem;
+    height:30rem;
     width:auto;
 }
 h1{

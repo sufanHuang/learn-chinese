@@ -11,7 +11,7 @@ export default class Home extends Component {
                 <div className="jumbotron jumbotron-fluid">
                     <div className="container">
                         <h1>Explore The World Of Learning Chinese From Here!</h1>
-                        <img className='header-img' src="https://i.ibb.co/0JdzbmK/Capture.png"/>
+                        <img className='header-img' src="https://i.ibb.co/KhcgtDh/china.png"/>
                     </div>
                 </div>
 
