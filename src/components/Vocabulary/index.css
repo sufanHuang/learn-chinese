@@ -16,7 +16,8 @@ h3{
     flex-direction:column;
     margin:.5rem;
     padding:1rem;
-    background-color: white;
+    border-radius: 10px;
+    background: #e6dfbd;
 }
 
 img{
