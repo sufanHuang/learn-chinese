@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2183d197-6de3-4ff5-853c-7cdc575e8596" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -268,8 +265,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574204831277" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574205074195" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdev-blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -314,7 +311,7 @@
       <workItem from="1573944251666" duration="22441000" />
       <workItem from="1574047836716" duration="2329000" />
       <workItem from="1574091704406" duration="642000" />
-      <workItem from="1574204117890" duration="713000" />
+      <workItem from="1574204117890" duration="956000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes">
       <created>1574043626860</created>
@@ -351,17 +348,23 @@
       <option name="project" value="LOCAL" />
       <updated>1574091827889</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Some changes">
+      <created>1574204880548</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574204880548</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26125000" />
+    <option name="totallyTimeSpent" value="26368000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14348522" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14348522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,7 +381,7 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49880096" weight="0.3290735" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119907" side_tool="true" visible="true" weight="0.3290735" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49920064" weight="0.3290735" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="10" sideWeight="0.49880096" visible="true" weight="0.3290735" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
