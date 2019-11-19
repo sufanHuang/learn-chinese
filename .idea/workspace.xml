@@ -27,12 +27,14 @@
           <entry key="html" value="3" />
           <entry key="js" value="24" />
           <entry key="md" value="1" />
+          <entry key="png" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CSS" value="31" />
           <entry key="HTML" value="3" />
+          <entry key="Image" value="1" />
           <entry key="JavaScript" value="24" />
           <entry key="Markdown" value="1" />
         </counts>
@@ -153,13 +155,18 @@
       </split-first>
       <split-second>
         <leaf>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/src/components/Home/index.css">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="119">
                   <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
                 </state>
               </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/public/learn-chinese.png">
+              <provider selected="true" editor-type-id="images" />
             </entry>
           </file>
         </leaf>
@@ -247,13 +254,6 @@
               <item name="components" type="462c0819:PsiDirectoryNode" />
               <item name="BaseLayout" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="learn-chinese" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learn-chinese" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -265,7 +265,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574205074195" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1574205310636" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdev-blog" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -311,7 +311,7 @@
       <workItem from="1573944251666" duration="22441000" />
       <workItem from="1574047836716" duration="2329000" />
       <workItem from="1574091704406" duration="642000" />
-      <workItem from="1574204117890" duration="956000" />
+      <workItem from="1574204117890" duration="1214000" />
     </task>
     <task id="LOCAL-00001" summary="Some changes">
       <created>1574043626860</created>
@@ -355,14 +355,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574204880548</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Some changes">
+      <created>1574205238228</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574205238228</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26368000" />
+    <option name="totallyTimeSpent" value="26626000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14348522" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -547,6 +554,9 @@
           <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/learn-chinese.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
 </project>
